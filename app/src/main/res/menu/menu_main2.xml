@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_togglebtn"
+        android:orderInCategory="90"
+        android:title="Web View"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_expandlist"
+        android:orderInCategory="90"
+        android:title="Expand"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_newfragment"
+        android:orderInCategory="90"
+        android:title="New Fragment"
+        app:showAsAction="never" />
+</menu>
